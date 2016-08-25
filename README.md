@@ -1,4 +1,4 @@
-# Angular 2 QuickStart Source Vijay
+# Angular 2 QuickStart Source Vijay Kumar
 [![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),

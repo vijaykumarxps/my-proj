@@ -144,7 +144,7 @@ Thereafter, run them with `npm run e2e`.
 That command first compiles, then simultaneously starts the Http-Server at `localhost:8080`
 and launches protractor.  
 
-The pass/fail test results appear at the bottom of the terminal window.
+The pass/fail test results appear at the bottom of the terminal 
 A custom reporter (see `protractor.config.js`) generates a  `./_test-output/protractor-results.txt` file
 which is easier to read; this file is excluded from source control.
 
